@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor em formação** | 🎓 Universidade Católica de Santos | 🌍 Santos/SP  
 📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-thomaz-kairalla-b41864370) | [Email](mailto:joaopedrothomaz332@gmail.com) | [WhatsApp](https://wa.me/5513991964545)  
-🌐 **Idiomas:** Português (Nativo) | Inglês (Intermediário)  
+🌐 **Idiomas:** Português (Nativo), Inglês (Intermediário)  
 
 ---
 
