@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 **Projetos Destacados**
+## 🚀 **Projetos Principais**
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
