@@ -49,4 +49,4 @@
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Thomaz332&show_icons=true&theme=dracula)
 
 ---
-[![Portfolio Online](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-github-ioid53fub-thomaz332s-projects.vercel.app)
+[![Portfolio Online](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-portfolio-github-chi.vercel.app)
