@@ -11,7 +11,7 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Calculadora em C#](https://github.com/Thomaz332/Calculadora-em-C-Sharp) | Aplicativo de calculadora para aprendizado da linguagem. | `C#` `.NET` |
-| [Interface de Urna Eletrônica](https://github.com/Thomaz332/Urna-Tlather-Interface) | Interface gráfica de urna eletrônica em Python. | `Python` `Tkinter` |
+| [Interface de Urna Eletrônica](https://github.com/Thomaz332/Urna-Tkinter-Interface) | Interface gráfica de urna eletrônica em Python. | `Python` `Tkinter` |
 | [Circuito ULA](https://github.com/Thomaz332/ULA-Bit) | Implementação de Unidade Lógica Aritmética em Verilog. | `Verilog` `Circuitos Digitais` |
 | [Criptografia ECC-VHDL](https://github.com/Thomaz332/Cryptography-ECC---VHDL) | Criptografia de curva elíptica em VHDL. | `VHDL` `Criptografia` |
 | [Análise: Urbanização vs. Pegada de Carbono](https://github.com/Thomaz332/Google-Colab-indice-de-urbaniza-o-vs.-Pegada-de-carbono-per-capita) | Análise de dados sobre desenvolvimento urbano e emissões. | `Python` `Pandas` `Data Science` |
