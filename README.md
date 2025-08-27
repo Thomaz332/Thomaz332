@@ -14,7 +14,7 @@
 | [Interface de Urna Eletrônica](https://github.com/Thomaz332/Urna-Tkinter-Interface) | Interface gráfica de urna eletrônica em Python. | `Python` `Tkinter` |
 | [Circuito ULA](https://github.com/Thomaz332/ULA_8-Bit) | Implementação de Unidade Lógica Aritmética em Verilog. | `Verilog` `Circuitos Digitais` |
 | [Criptografia ECC-VHDL](https://github.com/Thomaz332/Cryptography-ECC---VHDL) | Criptografia de curva elíptica em VHDL. | `VHDL` `Criptografia` |
-| [Análise: Urbanização vs. Pegada de Carbono](https://github.com/Thomaz332/Google-Colab-indice-de-urbaniza-o-vs.-Pegada-de-carbono-per-capita) | Análise de dados sobre desenvolvimento urbano e emissões. | `Python` `Pandas` `Data Science` |
+| [Análise: Urbanização vs. Pegada de Carbono](https://github.com/Thomaz332/Google-Colab-indice-de-urbaniza-o-vs.-Pegada-de-carbono-per-capita) | Análise de dados sobre desenvolvimento urbano e emissões de co2. | `Python` `Pandas` `Data Science` |
 | [Interface Bootstrap](https://github.com/Thomaz332/Interface-Bootstrap) | Interface web responsiva usando framework Bootstrap. | `HTML` `CSS` `Bootstrap` |
 
 ---
